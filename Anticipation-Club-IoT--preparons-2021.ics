@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 15.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20201116T074403Z
+DESCRIPTION:Merci de votre participation au salon virtuel Anticipation Club
+	\, réservé aux professionnels de l’IoT B2B : fabricants d’objets\, i
+	ntégrateurs\, éditeurs\, fournisseurs de solutions\, consultants… \n\n
+	Venez profiter d’un espace convivial d’information\, de rencontres et 
+	d’échanges dans un esprit club : https://anticipationclub.orange.com\n\
+	nVotre présence vous permettra de soumettre un produit ou service lors de
+	 notre Challenge qui débutera en 2021\, avec des promotions et prix à la
+	 clé.\n\nMerci de votre temps. Prenez soin de vous. \nA très bientôt\,\
+	n\nL’équipe Anticipation Club\, Orange.\n___\n\nContact : thierry.gaill
+	et@orange.com <mailto:thierry.gaillet@orange.com> \n\n
+DTEND;TZID="Romance Standard Time":20201210T123000
+DTSTAMP:20201116T074403Z
+DTSTART;TZID="Romance Standard Time":20201210T090000
+LAST-MODIFIED:20201116T074403Z
+LOCATION:https://anticipationclub.orange.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Anticipation Club IoT - préparons 2021
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000080A526CEF1BBD601000000000000000
+	010000000E3B2B4E4DA2F1845B20C8663EDCA7D62
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri
+	">Merci de votre participation au salon virtuel Anticipation Club</FONT></
+	SPAN><SPAN LANG="fr"><FONT FACE="Calibri">\,</FONT></SPAN><SPAN LANG="fr">
+	 <FONT FACE="Calibri">réservé aux professionnels de l’IoT B2B :</FONT
+	></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"> fabricants d’objets\, int
+	égrateurs\, éditeurs\, fournisseurs de solutions\, consultants… </FONT
+	></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN
+	 LANG="fr"><FONT FACE="Calibri">Venez profiter d’un espace convivial d
+	’information\,</FONT></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"></FONT>
+	</SPAN><SPAN LANG="fr"> <FONT FACE="Calibri">de rencontres et d’échange
+	s dans un esprit club :</FONT></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"
+	></FONT></SPAN><SPAN LANG="fr"> </SPAN><A HREF="https://anticipationclub.o
+	range.com"><SPAN LANG="fr"><B><U><FONT COLOR="#0563C1" FACE="Calibri">http
+	s://anticipationclub.orange.com</FONT></U></B></SPAN><SPAN LANG="fr"></SPA
+	N></A><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri">Votre présence vous 
+	permettra de soumettre un produit ou service lors de notre Challenge qui d
+	ébutera en 2021\,</FONT></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"></FON
+	T></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri">avec des promotions et prix
+	 à la clé.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="C
+	alibri">Merci</FONT></SPAN><SPAN LANG="fr"> <FONT FACE="Calibri">de votre 
+	temps</FONT></SPAN><SPAN LANG="fr"><FONT FACE="Calibri">.</FONT></SPAN><SP
+	AN LANG="fr"><FONT FACE="Calibri"></FONT></SPAN><SPAN LANG="fr"> <FONT FAC
+	E="Calibri">Prenez soin de vous.</FONT></SPAN><SPAN LANG="fr"> </SPAN></P>
+	\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri">A très bientôt\,</FO
+	NT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SP
+	AN LANG="fr"><FONT FACE="Calibri">L’équipe Anticipation Club</FONT></SP
+	AN><SPAN LANG="fr"><FONT FACE="Calibri">\,</FONT></SPAN><SPAN LANG="fr"> <
+	FONT FACE="Calibri">Orange.</FONT></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P
+	 DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri">___</FONT></SPAN></P>\n\n<P 
+	DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri">Contact</FONT></SPAN><SPAN LA
+	NG="fr"><FONT FACE="Calibri"> :</FONT></SPAN><SPAN LANG="fr"> </SPAN><A H
+	REF="mailto:thierry.gaillet@orange.com"><SPAN LANG="fr"><U><FONT COLOR="#0
+	563C1" FACE="Calibri">thierry.gaillet@orange.com</FONT></U></SPAN><SPAN LA
+	NG="fr"></SPAN></A><SPAN LANG="fr"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
